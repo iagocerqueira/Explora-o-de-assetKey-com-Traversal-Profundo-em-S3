@@ -1,4 +1,4 @@
-</head>
+
 <body>
   <h1>Exploração de assetKey com Traversal Profundo em S3</h1>
 
